@@ -754,7 +754,7 @@ msgstr "Combined صور افقية"
 #: /1080i/Custom_1115_Dialog_Shortcuts_Window.xml
 msgctxt "#31156"
 msgid "Edit categories and widgets"
-msgstr "widgetsتحرير الاصناف و"
+msgstr "widgets تحرير الاصناف و"
 
 #: /1080i/Custom_1115_Dialog_Shortcuts_Window.xml
 msgctxt "#31157"
@@ -1577,6 +1577,11 @@ msgctxt "#31332"
 msgid "New search"
 msgstr "بحث جديد"
 
+#: /1080i/Includes_Lists.xml
+msgctxt "#31333"
+msgid "Quad"
+msgstr "مربع كبير"
+
 msgctxt "#31334"
 msgid "Comments"
 msgstr "التعليقات"
@@ -1634,6 +1639,11 @@ msgstr "الوضع المتقدم يغير الترتيب الى افقي"
 msgctxt "#31346"
 msgid "Press down for more by this artist"
 msgstr "اضغط للأسفل لرؤية مزيدا من أعمال الممثل"
+
+#: /1080i/Includes_DialogInfo.xml
+msgctxt "#31347"
+msgid "Photography"
+msgstr "التصوير"
 
 msgctxt "#31348"
 msgid "Press down for channel EPG"
